@@ -1,0 +1,29 @@
+
+
+h1{
+  background-color:gray;
+}
+body{
+  background-color:#a3d1ab;
+}
+p{
+  font-size: 18px;
+  font-family: sans-serif;
+
+  float: left;
+}
+ul{
+  text-align: center;
+  list-style-position: inside;
+}
+
+#middleitem{
+  font-size: 8px;
+}
+
+.firstitem{
+  font-size: 16px;
+}
+li{
+  font-size: 30px;
+}
